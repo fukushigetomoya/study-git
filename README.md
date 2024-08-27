@@ -1,2 +1,2 @@
 # Hello Git!
-Good Luck!
+gitの勉強用のリポジトリ
